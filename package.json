@@ -1,0 +1,13 @@
+{
+  "name": "sockit",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.0.x",
+    "prompt-sync": "^4.2.0",
+    "socket.io": "0.9.6"
+  },
+  "engines": {
+    "node": "16.8.1",
+    "npm": "1.1.35"
+  }
+}
